@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/gitthehub/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unreal/gitthehub/Content/BP_RotatingChair.uasset",
+				"D:/unreal/gitthehub/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/4A/HP05WKRA56LCSLCOOESIJI.uasset",
+				"D:/unreal/gitthehub/Content/Level/StartMenuLevel.umap",
+				"D:/unreal/gitthehub/Content/Blueprints/WBP/WBP_StartMenu.uasset",
+				"D:/unreal/gitthehub/Content/Blueprints/GameModes/GM_StartMenuLevel.uasset",
+				"D:/unreal/gitthehub/Content/Level/L_LevelOne.umap"
+			]
+		}
+	]
+}
