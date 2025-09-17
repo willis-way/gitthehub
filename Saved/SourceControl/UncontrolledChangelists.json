@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sbehr/Documents/GitHub/gitthehub/Content/Blueprints/Triggerables/BP_SlidingDoor.uasset",
+				"C:/Users/sbehr/Documents/GitHub/gitthehub/Content/Blueprints/Triggerables/BP_Triggerable.uasset",
+				"C:/Users/sbehr/Documents/GitHub/gitthehub/Content/SciFiDoors/Meshes/SM_Frame.uasset",
+				"C:/Users/sbehr/Documents/GitHub/gitthehub/Content/Characters/BP_CharacterBase.uasset",
+				"C:/Users/sbehr/Documents/GitHub/gitthehub/Content/__ExternalActors__/Level/L_LevelOne/5/5X/O8UGDNI5WEK54VA7JIHR9X.uasset",
 				"D:/unreal/gitthehub/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/unreal/gitthehub/Content/BP_RotatingChair.uasset",
 				"D:/unreal/gitthehub/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/4A/HP05WKRA56LCSLCOOESIJI.uasset",
