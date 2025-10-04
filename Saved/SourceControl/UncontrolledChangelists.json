@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sgbeh/Desktop/unreal/gitthehub/Content/Blueprints/Weapons/BP_GrenadeLauncher.uasset",
+				"C:/Users/sgbeh/Desktop/unreal/gitthehub/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		}
+	]
+}
